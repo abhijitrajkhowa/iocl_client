@@ -1,5 +1,5 @@
 const publicVapidKey =
-	"BKlWBKsQm6aQ9cU9BD5D1UH4PcOE60mOAP1k_XYaOv5OwuTbsv-ioRV0CgVFEH9EqR0jnxyZwXOP1_KVELzRtos";
+	"BOH3eB28FcyocToCU5kzS5tPu5H952AppGs3EePv_KKe04QSdjGFghjg5fUKj86rJ5HMjtHLXsHvcQnHPE7BYeU";
 
 const urlBase64ToUit8Array = (base64String) => {
 	const padding = "=".repeat((4 - (base64String.length % 4)) % 4);
